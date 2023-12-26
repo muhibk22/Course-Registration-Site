@@ -1,1 +1,2 @@
 # Course-Registration-Site
+This GitHub repository hosts a streamlined front-end solution for a course registration form, exclusively built with HTML and CSS. The codebase demonstrates a clean and responsive design, showcasing the effective use of these core technologies to create an aesthetically pleasing and user-friendly course registration experience. Explore the repository to gain insights into the structured and well-styled implementation of the form's HTML and CSS components.
